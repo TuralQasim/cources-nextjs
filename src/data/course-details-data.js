@@ -35,11 +35,11 @@ const course_details_data = [
     courceCategories: [
       {
         name: "Business",
-        color: "blue",
+        color: "green",
       },
       {
         name: "Marketing",
-        color: "red",
+        color: "yellow",
       },
     ],
     courceTitle: "Digital Marketing Masterclass",
@@ -65,11 +65,11 @@ const course_details_data = [
     courceCategories: [
       {
         name: "Programming",
-        color: "purple",
+        color: "green",
       },
       {
         name: "Data Science",
-        color: "orange",
+        color: "yellow",
       },
     ],
     courceTitle: "Python for Data Science and Machine Learning",
@@ -95,11 +95,11 @@ const course_details_data = [
     courceCategories: [
       {
         name: "Photography",
-        color: "pink",
+        color: "green",
       },
       {
         name: "Art",
-        color: "teal",
+        color: "yellow",
       },
     ],
     courceTitle: "Mastering Portrait Photography",
@@ -125,11 +125,11 @@ const course_details_data = [
     courceCategories: [
       {
         name: "Health & Wellness",
-        color: "blue",
+        color: "green",
       },
       {
         name: "Fitness",
-        color: "green",
+        color: "yellow",
       },
     ],
     courceTitle: "Holistic Health and Nutrition",
@@ -155,11 +155,11 @@ const course_details_data = [
     courceCategories: [
       {
         name: "Programming",
-        color: "purple",
+        color: "green",
       },
       {
         name: "Web Development",
-        color: "blue",
+        color: "yellow",
       },
     ],
     courceTitle: "JavaScript for Beginners",
